@@ -1,0 +1,157 @@
+Id,Industry Id,Name
+10101010,101010,Oil & Gas Drilling
+10101020,101010,Oil & Gas Equipment & Services
+10102010,101020,Integrated Oil & Gas
+10102020,101020,Oil & Gas Exploration & Production
+10102030,101020,Oil & Gas Refining & Marketing
+10102040,101020,Oil & Gas Storage & Transportation
+10102050,101020,Coal & Consumable Fuels
+15101010,151010,Commodity Chemicals
+15101020,151010,Diversified Chemicals
+15101030,151010,Fertilizers & Agricultural Chemicals
+15101040,151010,Industrial Gases
+15101050,151010,Specialty Chemicals
+15102010,151020,Construction Materials
+15103010,151030,Metal & Glass Containers
+15103020,151030,Paper Packaging
+15104010,151040,Aluminum
+15104020,151040,Diversified Metals & Mining
+15104025,151040,Copper
+15104030,151040,Gold
+15104040,151040,Precious Metals & Minerals
+15104045,151040,Silver
+15104050,151040,Steel
+15105010,151050,Forest Products
+15105020,151050,Paper Products
+20101010,201010,Aerospace & Defense
+20102010,201020,Building Products
+20103010,201030,Construction & Engineering
+20104010,201040,Electrical Components & Equipment
+20104020,201040,Heavy Electrical Equipment
+20105010,201050,Industrial Conglomerates
+20106010,201060,Construction Machinery & Heavy Trucks
+20106015,201060,Agricultural & Farm Machinery
+20106020,201060,Industrial Machinery
+20107010,201070,Trading Companies & Distributors
+20201010,202010,Commercial Printing
+20201050,202010,Environmental & Facilities Services
+20201060,202010,Office Services & Supplies
+20201070,202010,Diversified Support Services
+20201080,202010,Security & Alarm Services
+20202010,202020,Human Resource & Employment Services
+20202020,202020,Research & Consulting Services
+20301010,203010,Air Freight & Logistics
+20302010,203020,Airlines
+20303010,203030,Marine
+20304010,203040,Railroads
+20304020,203040,Trucking
+20305010,203050,Airport Services
+20305020,203050,Highways & Railtracks
+20305030,203050,Marine Ports & Services
+25101010,251010,Auto Parts & Equipment
+25101020,251010,Tires & Rubber
+25102010,251020,Automobile Manufacturers
+25102020,251020,Motorcycle Manufacturers
+25201010,252010,Consumer Electronics
+25201020,252010,Home Furnishings
+25201030,252010,Homebuilding
+25201040,252010,Household Appliances
+25201050,252010,Housewares & Specialties
+25202010,252020,Leisure Products
+25203010,252030,"Apparel, Accessories & Luxury Goods"
+25203020,252030,Footwear
+25203030,252030,Textiles
+25301010,253010,Casinos & Gaming
+25301020,253010,"Hotels, Resorts & Cruise Lines"
+25301030,253010,Leisure Facilities
+25301040,253010,Restaurants
+25302010,253020,Education Services
+25302020,253020,Specialized Consumer Services
+25501010,255010,Distributors
+25502020,255020,Internet & Direct Marketing Retail
+25503010,255030,Department Stores
+25503020,255030,General Merchandise Stores
+25504010,255040,Apparel Retail
+25504020,255040,Computer & Electronics Retail
+25504030,255040,Home Improvement Retail
+25504040,255040,Specialty Stores
+25504050,255040,Automotive Retail
+25504060,255040,Homefurnishing Retail
+30101010,301010,Drug Retail
+30101020,301010,Food Distributors
+30101030,301010,Food Retail
+30101040,301010,Hypermarkets & Super Centers
+30201010,302010,Brewers
+30201020,302010,Distillers & Vintners
+30201030,302010,Soft Drinks
+30202010,302020,Agricultural Products
+30202030,302020,Packaged Foods & Meats
+30203010,302030,Tobacco
+30301010,303010,Household Products
+30302010,303020,Personal Products
+35101010,351010,Health Care Equipment
+35101020,351010,Health Care Supplies
+35102010,351020,Health Care Distributors
+35102015,351020,Health Care Services
+35102020,351020,Health Care Facilities
+35102030,351020,Managed Health Care
+35103010,351030,Health Care Technology
+35201010,352010,Biotechnology
+35202010,352020,Pharmaceuticals
+35203010,352030,Life Sciences Tools & Services
+40101010,401010,Diversified Banks
+40101015,401010,Regional Banks
+40102010,401020,Thrifts & Mortgage Finance
+40201020,402010,Other Diversified Financial Services
+40201030,402010,Multi-Sector Holdings
+40201040,402010,Specialized Finance
+40202010,402020,Consumer Finance
+40203010,402030,Asset Management & Custody Banks
+40203020,402030,Investment Banking & Brokerage
+40203030,402030,Diversified Capital Markets
+40301010,403010,Insurance Brokers
+40301020,403010,Life & Health Insurance
+40301030,403010,Multi-line Insurance
+40301040,403010,Property & Casualty Insurance
+40301050,403010,Reinsurance
+45102010,451020,IT Consulting & Other Services
+45102020,451020,Data Processing & Outsourced Services
+45102030,451020,Internet Services & Infrastructure
+45103010,451030,Application Software
+45103020,451030,Systems Software
+45201020,452010,Communications Equipment
+45202030,452020,"Technology Hardware, Storage & Peripherals"
+45203010,452030,Electronic Equipment & Instruments
+45203015,452030,Electronic Components
+45203020,452030,Electronic Manufacturing Services
+45203030,452030,Technology Distributors
+45301010,453010,Semiconductor Equipment
+45301020,453010,Semiconductors
+50101010,501010,Alternative Carriers
+50101020,501010,Integrated Telecommunication Services
+50102010,501020,Wireless Telecommunication Services
+50201010,502010,Advertising
+50201020,502010,Broadcasting
+50201030,502010,Cable & Satellite
+50201040,502010,Publishing
+50202010,502020,Movies & Entertainment
+50202020,502020,Interactive Home Entertainment
+50203010,502030,Interactive Media & Services
+55101010,551010,Electric Utilities
+55102010,551020,Gas Utilities
+55103010,551030,Multi-Utilities
+55104010,551040,Water Utilities
+55105010,551050,Independent Power Producers & Energy Traders
+55105020,551050,Renewable Electricity
+60101010,601010,Diversified REITs
+60101020,601010,Industrial REITs
+60101030,601010,Hotel & Resort REITs
+60101040,601010,Office REITs
+60101050,601010,Health Care REITs
+60101060,601010,Residential REITs
+60101070,601010,Retail REITs
+60101080,601010,Specialized REITs
+60102010,601020,Diversified Real Estate Activities
+60102020,601020,Real Estate Operating Companies
+60102030,601020,Real Estate Development
+60102040,601020,Real Estate Services

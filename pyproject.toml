@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "global-industry-classification-standard"
+version = "0.1.0"
+description = ""
+authors = ["James Dooley <81564302+dooley-ch@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openpyxl = "^3.0.10"
+attrs = "^21.4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

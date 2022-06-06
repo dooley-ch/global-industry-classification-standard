@@ -1,0 +1,25 @@
+Id,Sector Id,Name
+1010,10,Energy
+1510,15,Materials
+2010,20,Capital Goods
+2020,20,Commercial & Professional Services
+2030,20,Transportation
+2510,25,Automobiles & Components
+2520,25,Consumer Durables & Apparel
+2530,25,Consumer Services
+2550,25,Retailing
+3010,30,Food & Staples Retailing
+3020,30,"Food, Beverage & Tobacco"
+3030,30,Household & Personal Products
+3510,35,Health Care Equipment & Services
+3520,35,"Pharmaceuticals, Biotechnology & Life Sciences"
+4010,40,Banks
+4020,40,Diversified Financials
+4030,40,Insurance
+4510,45,Software & Services
+4520,45,Technology Hardware & Equipment
+4530,45,Semiconductors & Semiconductor Equipment
+5010,50,Telecommunication Services
+5020,50,Media & Entertainment
+5510,55,Utilities
+6010,60,Real Estate

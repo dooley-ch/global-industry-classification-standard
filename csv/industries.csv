@@ -1,0 +1,70 @@
+Id,Industry Group Id,Name
+101010,1010,Energy Equipment & Services
+101020,1010,"Oil, Gas & Consumable Fuels"
+151010,1510,Chemicals
+151020,1510,Construction Materials
+151030,1510,Containers & Packaging
+151040,1510,Metals & Mining
+151050,1510,Paper & Forest Products
+201010,2010,Aerospace & Defense
+201020,2010,Building Products
+201030,2010,Construction & Engineering
+201040,2010,Electrical Equipment
+201050,2010,Industrial Conglomerates
+201060,2010,Machinery
+201070,2010,Trading Companies & Distributors
+202010,2020,Commercial Services & Supplies
+202020,2020,Professional Services
+203010,2030,Air Freight & Logistics
+203020,2030,Airlines
+203030,2030,Marine
+203040,2030,Road & Rail
+203050,2030,Transportation Infrastructure
+251010,2510,Auto Components
+251020,2510,Automobiles
+252010,2520,Household Durables
+252020,2520,Leisure Products
+252030,2520,"Textiles, Apparel & Luxury Goods"
+253010,2530,"Hotels, Restaurants & Leisure"
+253020,2530,Diversified Consumer Services
+255010,2550,Distributors
+255020,2550,Internet & Direct Marketing Retail
+255030,2550,Multiline Retail
+255040,2550,Specialty Retail
+301010,3010,Food & Staples Retailing
+302010,3020,Beverages
+302020,3020,Food Products
+302030,3020,Tobacco
+303010,3030,Household Products
+303020,3030,Personal Products
+351010,3510,Health Care Equipment & Supplies
+351020,3510,Health Care Providers & Services
+351030,3510,Health Care Technology
+352010,3520,Biotechnology
+352020,3520,Pharmaceuticals
+352030,3520,Life Sciences Tools & Services
+401010,4010,Banks
+401020,4010,Thrifts & Mortgage Finance
+402010,4020,Diversified Financial Services
+402020,4020,Consumer Finance
+402030,4020,Capital Markets
+402040,4020,Mortgage Real Estate Investment 
+403010,4030,Insurance
+451020,4510,IT Services
+451030,4510,Software
+452010,4520,Communications Equipment
+452020,4520,"Technology Hardware, Storage & Peripherals"
+452030,4520,"Electronic Equipment, Instruments & Components"
+453010,4530,Semiconductors & Semiconductor Equipment
+501010,5010,Diversified Telecommunication Services
+501020,5010,Wireless Telecommunication Services
+502010,5020,Media
+502020,5020,Entertainment
+502030,5020,Interactive Media & Services
+551010,5510,Electric Utilities
+551020,5510,Gas Utilities
+551030,5510,Multi-Utilities
+551040,5510,Water Utilities
+551050,5510,Independent Power and Renewable Electricity Producers
+601010,6010,Equity Real Estate Investment Trusts (REITs)
+601020,6010,Real Estate Management & Development
