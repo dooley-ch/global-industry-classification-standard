@@ -1,0 +1,1 @@
+# global-industry-classification-standard
