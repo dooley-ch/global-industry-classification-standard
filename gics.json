@@ -864,13 +864,22 @@
                             {
                                 "id": 40203030,
                                 "name": "Diversified Capital Markets"
+                            },
+                            {
+                                "id": 40203040,
+                                "name": "Financial Exchanges & Data"
                             }
                         ]
                     },
                     {
                         "id": 402040,
                         "name": "Mortgage Real Estate Investment ",
-                        "items": []
+                        "items": [
+                            {
+                                "id": 40204010,
+                                "name": "Mortgage REITs"
+                            }
+                        ]
                     }
                 ]
             },
@@ -1231,14 +1240,6 @@
                             {
                                 "id": 60102020,
                                 "name": "Real Estate Operating Companies"
-                            },
-                            {
-                                "id": 60102030,
-                                "name": "Real Estate Development"
-                            },
-                            {
-                                "id": 60102040,
-                                "name": "Real Estate Services"
                             }
                         ]
                     }

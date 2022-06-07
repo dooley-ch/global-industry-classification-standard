@@ -109,6 +109,8 @@ Id,Industry Id,Name
 40203010,402030,Asset Management & Custody Banks
 40203020,402030,Investment Banking & Brokerage
 40203030,402030,Diversified Capital Markets
+40203040,402030,Financial Exchanges & Data
+40204010,402040,Mortgage REITs
 40301010,403010,Insurance Brokers
 40301020,403010,Life & Health Insurance
 40301030,403010,Multi-line Insurance
@@ -153,5 +155,3 @@ Id,Industry Id,Name
 60101080,601010,Specialized REITs
 60102010,601020,Diversified Real Estate Activities
 60102020,601020,Real Estate Operating Companies
-60102030,601020,Real Estate Development
-60102040,601020,Real Estate Services
